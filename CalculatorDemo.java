@@ -1,4 +1,4 @@
-package calcutator;
+package calculator;
 import java.awt.*;
 import java.awt.event.*;
 
@@ -188,7 +188,7 @@ class FrameDemo extends Frame implements ActionListener {
 	
 }
 
-public class CalcutatorDemo {
+public class CalculatorDemo {
 
 	public static void main(String[] args) {
 		
